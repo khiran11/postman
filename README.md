@@ -1,4 +1,4 @@
-# postman
+# Postman
 This repository has practiced Postman examples
 
 
